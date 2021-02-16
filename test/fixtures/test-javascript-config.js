@@ -1,4 +1,4 @@
-module.exports = [
+export default [
   {
     nickname: 'test',
     server: 'irc.bottest.org',
